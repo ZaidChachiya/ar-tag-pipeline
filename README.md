@@ -87,3 +87,9 @@ python main.py --video assets/test_video.mp4 --template assets/my_overlay_image.
 
 ---
 *Note: This project was developed as an exercise in understanding the core mathematical fundamentals of Augmented Reality pipelines without relying on "black box" standard library functions.*
+
+## 🎥 Output Video Demonstration
+
+You can view the output videos demonstrating the AR tag detection and rendering pipeline in action here:
+
+[**View Output Video Folder on Google Drive**](https://drive.google.com/drive/folders/1KGwmqdVYgbvTd4eskOS7nA9Krc8kBRTM)
